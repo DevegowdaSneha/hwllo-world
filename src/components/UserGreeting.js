@@ -12,6 +12,8 @@ import React, { Component } from 'react'
     render() {
 
        return  this.state.isLoggedIn && <div> Welcome Sneh </div>
+
+       
         
         // return this.state.isLoggedIn ? (
         //         <div> Welcome Sneha!  </div>
